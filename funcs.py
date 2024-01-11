@@ -1,6 +1,5 @@
 def num():
-    n = 2 + 2
-    return n
+    return 2 + 2
 
 
 def num1():

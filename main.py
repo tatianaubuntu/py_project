@@ -1,3 +1,3 @@
 from funcs import num
 
-num()
+print(num())
